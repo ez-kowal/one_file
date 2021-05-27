@@ -23,3 +23,7 @@ custom presence on discord that shows you arewatching pornhub i tried to comment
 so in may 2021 i was inspired to make my own version of neofetch/pfetch/any other program that show you 
 useless info about your system so you can flex with them online, so i made my own crappy clone i python.
 
+here is a preview of xfetch.py:
+
+![img](https://raw.githubusercontent.com/ez-kowal/one_file/main/pngs/xfetch.png)
+
