@@ -1,5 +1,5 @@
 from string import ascii_letters
-from typing import Dict, Optional
+from typing import Optional
 
 def bubble_sort(list: list):
     """
