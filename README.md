@@ -1,5 +1,5 @@
 # one_file
-The prupose fro this repository is to store all my one file project and small scripts i make.
+The prupose for this repository is to store all my one file project and small scripts i make.
 the scripts i upload aren't commentet propetly (i do plan to comment them when i get time to do it)
 Also some of the scripts aren't the best quality.
 <br><br>
