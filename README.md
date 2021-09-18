@@ -37,7 +37,8 @@ to convert to a base-10 form 8-bit binary number use: ```-D <number> || --Decima
 
 
 
-#### Commit?
+
 <br><br><br><br><br><br>
+### Commit?
 Im open to people fixing or debugging the code, if they are interested to do so.
 Since it means that i can look through the fixed code and improve for the future.
