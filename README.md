@@ -31,5 +31,5 @@ here is a preview of xfetch.py:
 
 ## [binary_converter.py](https://github.com/ez-kowal/one_file/blob/main/binary_converter.py)
 This is a binary converting CLI made in Python. The CLI can convert a base-10 number to 8-bit binary number.
-to convert to a 8-bit binary from base-10 number use: ```-B <number> || --Binary <number>```
+to convert to a 8-bit binary from base-10 number use: ```-B <number> || --Binary <number>```<br>
 to convert to a base-10 form 8-bit binary number use: ```-D <number> || --Decimal <number>```

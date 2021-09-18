@@ -33,8 +33,12 @@ def to_decimal(num:str) -> int:
             bits_count += 1;
     return result;
 
-
-if (argv[1] == '-B' or argv[1] == "--Binary"):
-    print(to_binary(int(argv[2])));
-if (argv[1] == '-D' or argv[1] == "--Decimal"):
-    print(to_decimal(str(argv[2])));
+try:
+    if (argv[1] == '-I' or argv[1] == "--Info" or argv[1] == "--help" or argv[1] == "" or argv[1] == None):
+        print("INFO\n\nThis is a simple CLI tool to convert Base-10 numer to 8-bit binary and reversed\n\nCommands:\n -D/--Decimal <8-bit binary number>\n -B/--Binary <base-10 number> \n -I/--Info for info page");
+    elif (argv[1] == '-B' or argv[1] == "--Binary"):
+        print(to_binary(int(argv[2])));
+    elif (argv[1] == '-D' or argv[1] == "--Decimal"):
+        print(to_decimal(str(argv[2])));
+except:
+    print("INFO\n\nThis is a simple CLI tool to convert Base-10 numer to 8-bit binary and reversed\n\nCommands:\n -D/--Decimal <8-bit binary number>\n -B/--Binary <base-10 number> \n -I/--Info for info page");
