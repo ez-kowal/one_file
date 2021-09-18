@@ -1,9 +1,10 @@
 # one_file
-In this repository i upload all my small projects and scripts that i make.
-Its a collection of scripts and small projects i made for fun or to learn a new library or some other reason,
-so pls dont expect the best quality code here.
+The prupose fro this repository is to store all my one file project and small scripts i make.
+the scripts i upload aren't commentet propetly (i do plan to comment them when i get time to do it)
+Also some of the scripts aren't the best quality.
 <br><br>
-i will provide a short description about every script btw.
+Under Here a provide a short description of every script/small project.
+In some of them there's pictures.
 <br><br>
 
 
@@ -33,3 +34,10 @@ here is a preview of xfetch.py:
 This is a binary converting CLI made in Python. The CLI can convert a base-10 number to 8-bit binary number.
 to convert to a 8-bit binary from base-10 number use: ```-B <number> || --Binary <number>```<br>
 to convert to a base-10 form 8-bit binary number use: ```-D <number> || --Decimal <number>```
+
+
+
+
+<br><br><br><br><br><br>
+Im open to people fixing or debugging the code, if they are interested to do so.
+Since it means that i can look through the fixed code and improve for the future.
