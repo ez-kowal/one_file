@@ -79,4 +79,3 @@ def to_roman(num:int) -> str:
                 num -= i;
 
     return str(roman);
-print(to_roman(14))
