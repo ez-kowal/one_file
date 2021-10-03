@@ -30,6 +30,7 @@ here is a preview of xfetch.py:
 ## [unit_convert.py](https://github.com/ez-kowal/one_file/blob/main/unit_convert.py)
 This is small script that can convert base-16/10/8/2 between each other.
 it uses 0 libraries to convert numbers only pure python.
+there is an extra function to convert a decimal(base10) to roman numeral
 
 
 
