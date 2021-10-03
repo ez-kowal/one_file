@@ -23,7 +23,7 @@ useless info about your system so you can flex with them online, so i made my ow
 
 here is a preview of xfetch.py:
 
-![img](https://raw.githubusercontent.com/ez-kowal/one_file/main/pngs/xfetch.png)
+![img](https://raw.githubusercontent.com/ez-kowal/one_file/main/resource/xfetch.png)
 
 
 
